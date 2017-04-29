@@ -1,0 +1,34 @@
+﻿[Main]
+Version=2
+
+[cb_PackingType: TcxPropertiesStoreComponent]
+=
+ItemIndex=0
+
+[frmMain: TcxPropertiesStoreComponent]
+=
+Height=723
+Left=166
+Top=50
+Width=1291
+
+[scb_InputFile1: TcxPropertiesStoreComponent]
+=
+Hint="D:\\Embedded\\Projects\\Delphi_utils\\Schematic_components_builder\\Pin_builder_MK66\\MK66FN2M0VLQ18_pins.txt"
+
+[scb_OutputDir: TcxPropertiesStoreComponent]
+=
+Hint="D:\\Embedded\\Projects\\Delphi_utils\\Schematic_components_builder\\Pin_builder_MK66"
+
+[ted_DelimSym: TcxPropertiesStoreComponent]
+=
+Text="/"
+
+[ted_OutFile: TcxPropertiesStoreComponent]
+=
+Text="MK66FN2M0VLQ18.csv"
+
+[ted_OutSeparator: TcxPropertiesStoreComponent]
+=
+Text=","
+
